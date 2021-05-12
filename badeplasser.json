@@ -1,0 +1,104 @@
+[
+    {
+        "Navn": "Hvervenbukta",
+        "Latitude": 59.832684,
+        "Longitude": 10.772138,
+        "Fasiliteter": "Badeflåte, Benker, Gressbakker, HC rampe, Kafe med uteservering, Kiosk, Sandstrand, Svaberg, Søppeldunker, Søppelkasse for engangsgrill, Toalett, Utedusj, Vannkran"
+    },
+    {
+        "Navn": "Fiskevollbukta",
+        "Latitude": 59.842146,
+        "Longitude": 10.773436,
+        "Fasiliteter": "Svaberg"
+    },
+    {
+        "Navn": "Sæterstrand",
+        "Latitude": 59.862078,
+        "Longitude": 10.783296,
+        "Fasiliteter": "Badeflåte, Fiskeplass, Gresslette, Svaberg, Søppeldunker"
+    },
+    {
+        "Navn": "Nordstrand Bad",
+        "Latitude": 59.868882,
+        "Longitude": 10.7817,
+        "Fasiliteter": "Badebrygge, Benker, Fiskeplass, Gresslette, Sandstrand, Stupemulighet, Svaberg, Sykkelstativ, Søppeldunker, Søppelkasse for engangsgrill, Utedo"
+    },
+    {
+        "Navn": "Sydstranda ",
+        "Latitude": 59.86701,
+        "Longitude": 10.770851,
+        "Fasiliteter": "Benker, Grillplass, Ingen hunder, Inngangspenger, Kiosk, Sandstrand, Stupemulighet, Søppeldunker, Toalett, Utedusj"
+    },
+    {
+        "Navn": "Bekkelagsbadet",
+        "Latitude": 59.880285,
+        "Longitude": 10.764976,
+        "Fasiliteter": "Badebrygge, Gresslette, Ikke egnet for små barn, Parkering mot avgift, Sandvolleyballbane, Stupemulighet, Søppeldunker"
+    },
+    {
+        "Navn": "Solvikbukta (Malmøya)",
+        "Latitude": 59.864638,
+        "Longitude": 10.749291,
+        "Fasiliteter": "Badebrygge, HC rampe, Kafe, Kiosk, Sandstrand, Svaberg, Søppeldunker, Toalett"
+    },
+    {
+        "Navn": "Rambergøya",
+        "Latitude": 59.879482,
+        "Longitude": 10.714928,
+        "Fasiliteter": "Grusstrand, Svaberg, Søppeldunker, Utedo"
+    },
+    {
+        "Navn": "Gressholmen",
+        "Latitude": 59.884014,
+        "Longitude": 10.72364,
+        "Fasiliteter": "Gresslette, Kiosk, Restaurant, Sandstrand, Svaberg, Søppeldunker, Utedo"
+    },
+    {
+        "Navn": "Hovedøya",
+        "Latitude": 59.893605,
+        "Longitude": 10.726843,
+        "Fasiliteter": "Benker, Gresslette, Kafe, Sandstrand, Svaberg, Søppeldunker, Toalett"
+    },
+    {
+        "Navn": "Sørenga",
+        "Latitude": 59.900882,
+        "Longitude": 10.750418,
+        "Fasiliteter": "Badebrygge, Barnevennlig, Benker, Butikk, HC rampe, Restaurant, Stupemulighet, Søppeldunker, Toalett mot betaling, Utedusj"
+    },
+    {
+        "Navn": "Tjuvholmen",
+        "Latitude": 59.906082,
+        "Longitude": 10.719456,
+        "Fasiliteter": "Badebrygge, Badeflåte, Benker, Gresslette, Grusstrand, Kafe med uteservering, Kiosk, Restaurant, Søppeldunker"
+    },
+    {
+        "Navn": "Huk badeplass",
+        "Latitude": 59.894603,
+        "Longitude": 10.674991,
+        "Fasiliteter": "Badeflåte, Benker, Gresslette, Grillplass, Kiosk, Restaurant, Sandstrand, Sandvolleyballbane, Stupemulighet, Sykkelstativ, Søppeldunker, Søppelkasse for engangsgrill, Toalett, Utedusj"
+    },
+    {
+        "Navn": "Huk Naturisstrand",
+        "Latitude": 59.896273,
+        "Longitude": 10.672052,
+        "Fasiliteter": "Benker, Gresslette, Kiosk, Nudist, Sandstrand, Sykkelstativ, Søppeldunker, Søppelkasse for engangsgrill, Toalett, Utedusj, Vannkran"
+    },
+    {
+        "Navn": "Paradisbukta",
+        "Latitude": 59.901704,
+        "Longitude": 10.665493,
+        "Fasiliteter": "Badeflåte, Badestige, Benker, Sandstrand, Søppeldunker, Søppelkasse for engangsgrill, Toalett, Utedusj, Vannkran"
+    },
+    {
+        "Navn": "Bygdøy sjøbad",
+        "Latitude": 59.908878,
+        "Longitude": 10.663418,
+        "Fasiliteter": "Badeflåte, Benker, Sandstrand, Stupemulighet, Søppeldunker, Søppelkasse for engangsgrill, Toalett, Utedusj, Vannkran"
+    },
+    {
+        "Navn": "Sollerudstranda",
+        "Latitude": 59.91225,
+        "Longitude": 10.649478,
+        "Fasiliteter": "Butikk, Gresslette, Grusstrand, Kiosk, Sandstrand, Søppeldunker"
+    }
+]
